@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">      BChatApp</string>
+    <string name="status">STATUS</string>
+    <string name="listener">LISTENER</string>
+    <string name="send">SEND</string>
+    <string name="list_devices">LIST DEVICES</string>
+    <string name="message">MESSAGE</string>
+    <string name="write_message">write message</string>
+    <string name="none_paired" />
+    <string name="messages_view">Messages View</string>
+</resources>
